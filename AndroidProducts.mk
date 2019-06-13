@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/full_p839v55.mk
+    $(LOCAL_DIR)/aosp_p839v55.mk

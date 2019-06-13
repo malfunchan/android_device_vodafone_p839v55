@@ -23,7 +23,7 @@ $(call inherit-product-if-exists, vendor/vodafone/p839v55/p839v55-vendor.mk)
 
 # Device identifier. This must come after all inclusions.
 PRODUCT_DEVICE := p839v55
-PRODUCT_NAME := cm_p839v55
+PRODUCT_NAME := aosp_p839v55
 PRODUCT_BRAND := Vodafone
 PRODUCT_MODEL := Smart Ultra 6
 PRODUCT_MANUFACTURER := Vodafone
